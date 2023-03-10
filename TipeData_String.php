@@ -1,10 +1,10 @@
 <?php
 
     echo 'Name : ';
-    echo 'Iqbal Heriyadi';
+    echo 'Amril Setia Pratama';
     echo "\n";
 
     echo "Name : ";
-    echo "Iqbal\t Heriyadi\n";
+    echo "Amril Setia\t Pratama\n";
 
 ?>    

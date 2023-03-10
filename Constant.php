@@ -1,14 +1,14 @@
 <?php
 
     define("NAMA","Febri Hariyadi");
-    define("CLUB","Persib Bandung");
+    define("ASAL","Bandung");
 
     echo "Nama : ";
     echo NAMA;
     echo "\n";
 
-    echo "Club : ";
-    echo CLUB;
+    echo "ASAL : ";
+    echo ASAL;
     echo "\n";
 
 ?>

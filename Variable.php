@@ -1,8 +1,8 @@
 <?php
 
-    $name       = "Iqbal Heriyadi";
+    $name       = "Amril Setia Pratama";
     $age        = 24;
-    $address    = "Cimahi";
+    $address    = "Batujajar";
     $iqbal      = "";
 
     echo "Name : ";
